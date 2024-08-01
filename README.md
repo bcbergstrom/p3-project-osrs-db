@@ -6,7 +6,7 @@ This is the OSRS/MMO database and interface.
 
 ### Prerequisites
 
-Make sure to have the most recent version of SQLite on your system, alongside running ```pipenv install``` and ```pipenv shell```, if dependencies are not already installed.
+Make sure to have the most recent version of SQLite on your system and python, alongside running ```pipenv install``` and ```pipenv shell```, if dependencies are not already installed.
 
 ### Running the program
 
